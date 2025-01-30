@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Adamson Bryant"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Adamson Bryant"
 description              : &description "personal description"
@@ -21,12 +21,12 @@ repository               : "AdamsonBryant/adamsonbryant.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "adamson_bryant_headshot.jpeg"
+  name             : "Adamson Bryant"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Economics PhD Student at Brown University"
   location         : # ""
-  employer         : "Brown University"
+  employer         : # "Brown University"
   uri              : # URL
   email            : "adamson_bryant@brown.edu" 
 
