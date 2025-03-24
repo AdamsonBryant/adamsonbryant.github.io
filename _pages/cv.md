@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-<a href="files/Adamson_Bryant_CV_March2024.pdf" class="image fit"></a>
+<object data="{{ site.url }}{{ site.baseurl }}/files/Adamson_Bryant_CV_March2025.pdf" width="1000" height="1000" type="application/pdf"></object>
