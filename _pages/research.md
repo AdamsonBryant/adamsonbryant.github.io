@@ -16,3 +16,7 @@ Despite growing evidence that neighborhoods play a critical role in shaping econ
 
 ### Shift-Share Designs with High-Dimensional Confounders
 
+### Homelessness and the Housing Market
+
+### Long-run Impacts of Tourism on Adults and Children
+
