@@ -14,9 +14,10 @@ Despite growing evidence that neighborhoods play a critical role in shaping econ
 
 ## Works in Progress
 
+### Gun Violence and Business Activity (with [Panka Bencsik](https://www.pankabencsik.com) and [Jesse Bruhn](https://www.jessebruhn.com))
+
 ### Shift-Share Designs with High-Dimensional Confounders
 
 ### Homelessness and the Housing Market
 
-### Long-run Impacts of Tourism on Adults and Children
 
