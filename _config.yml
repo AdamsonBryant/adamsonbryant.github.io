@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Adamson Bryant"
 title_separator          : "-"
 name                     : &name "Adamson Bryant"
-description              : &description "personal description"
+description              : &description "Adamson Bryant is a PhD Candidate in Economics at Brown University studying neighborhoods, labor markets, and economic opportunity."
 url                      : https://adamsonbryant.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AdamsonBryant/adamsonbryant.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "adamson_bryant_headshot.jpeg"
   name             : "Adamson Bryant"
   pronouns         : # example: "she/her"  
-  bio              : "Economics PhD Student at Brown University"
+  bio              : "Economics PhD Candidate at Brown University"
   location         : # ""
   employer         : # "Brown University"
   uri              : # URL
@@ -157,6 +157,7 @@ include:
   - _pages
   - files
 exclude:
+  - _site
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
