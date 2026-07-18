@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Outdoors"
+title: ""
 permalink: /outdoors/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
