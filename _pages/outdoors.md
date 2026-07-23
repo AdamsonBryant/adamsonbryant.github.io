@@ -10,28 +10,28 @@ author_profile: false
 Here's a smattering of photos from some of my favorite days outside.
 
 <figure>
-  <img src="../images/outdoors/optimized2/huayhuash6.jpeg" alt="Huayhuash" loading="lazy" decoding="async">
+  <img src="../images/outdoors/optimized2/huayhuash6.jpeg" alt="Huayhuash" loading="eager" decoding="async">
   <figcaption>Zona Reservada Cordillera Huayhuash, May 2026</figcaption>
 </figure>
 <figure>
-  <img src="../images/outdoors/optimized2/huayhuash5.jpeg" alt="Huayhuash" loading="lazy" decoding="async">
+  <img src="../images/outdoors/optimized2/huayhuash5.jpeg" alt="Huayhuash" loading="eager" decoding="async">
   <figcaption>Zona Reservada Cordillera Huayhuash, May 2026</figcaption>
 </figure>
 <figure>
-  <img src="../images/outdoors/optimized2/huayhuash4.jpeg" alt="Huayhuash" loading="lazy" decoding="async">
+  <img src="../images/outdoors/optimized2/huayhuash4.jpeg" alt="Huayhuash" loading="eager" decoding="async">
   <figcaption>Zona Reservada Cordillera Huayhuash, May 2026</figcaption>
 </figure>
 <figure>
-  <img src="../images/outdoors/optimized2/huayhuash3.jpeg" alt="Huayhuash" loading="lazy" decoding="async">
+  <img src="../images/outdoors/optimized2/huayhuash3.jpeg" alt="Huayhuash" loading="eager" decoding="async">
   <figcaption>Zona Reservada Cordillera Huayhuash, May 2026</figcaption>
 </figure>
 <figure>
-  <img src="../images/outdoors/optimized2/huayhuash2.jpeg" alt="Huayhuash" loading="lazy" decoding="async">
+  <img src="../images/outdoors/optimized2/huayhuash2.jpeg" alt="Huayhuash" loading="eager" decoding="async">
   <figcaption>Zona Reservada Cordillera Huayhuash, May 2026</figcaption>
 </figure>
 
 <figure>
-  <img src="../images/outdoors/optimized2/huayhuash1.jpeg" alt="Huayhuash" loading="lazy" decoding="async">
+  <img src="../images/outdoors/optimized2/huayhuash1.jpeg" alt="Huayhuash" loading="eager" decoding="async">
   <figcaption>Zona Reservada Cordillera Huayhuash, May 2026</figcaption>
 </figure>
 
